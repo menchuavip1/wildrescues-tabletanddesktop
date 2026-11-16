@@ -274,6 +274,6 @@ form #submit {
 @media print{
   body{
     background-color: #fff;
-    color: #000
+    color: #000;
   } 
 }
